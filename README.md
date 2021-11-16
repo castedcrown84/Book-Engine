@@ -45,6 +45,6 @@ We first signup/login, then we search for books to add to our savedbooks. After 
 
 Email: castedcrown84@gmail.com
 
-GitHub: [https://github.com/](https://github.com/DBueno1464/book-search-engine)castedcrown84
+GitHub: https://github.com/castedcrown84/
 
 Heroku: https://vast-inlet-21149.herokuapp.com/
